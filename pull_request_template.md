@@ -2,8 +2,11 @@
 <!--- Nominate a team member to be a mandatory reviewer for this PR -->
 
 ## Summary
-<!--- Provide a short summary of your changes -->
+<!--- About 300 words a reviewer can read on their own: why this PR exists, what it does, what changes for users or devices, how it was tested, and where to look. The details below hold the rest. -->
 
+
+<details>
+<summary>Details: related PRs, Jira, changes, tests, notes</summary>
 
 ## Related PRs
 <!--- Provide links to all related Pull Requests  -->
@@ -24,3 +27,5 @@
 ## Notes
 <!--- Any other notes? -->
 * 
+
+</details>
